@@ -1,5 +1,7 @@
 # Game Host
-Takes care of all the games.
+
+This part of the back end structure of Elmeron is responsible for active games. It is the public API for all Elmeron 
+Clients.
 
 ## API Documentation
 
