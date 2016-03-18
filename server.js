@@ -68,3 +68,4 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen(port);
+console.log('Elmeron Game Host listening on ' + port);
